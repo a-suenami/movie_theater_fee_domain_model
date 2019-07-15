@@ -6,4 +6,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "rake"
 gem "sorbet"
+gem "rspec"
 gem "guard"
+gem "guard-rake"
+gem "guard-rspec"
