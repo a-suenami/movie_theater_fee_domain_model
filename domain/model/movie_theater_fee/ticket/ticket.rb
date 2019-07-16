@@ -1,0 +1,2 @@
+class MovieTheaterFee::Ticket
+end
